@@ -1,2 +1,2 @@
 # Projects
-Repo for different projects i have done 
+- This repository will contain projects that i have done
